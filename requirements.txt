@@ -1,7 +1,10 @@
 streamlit
 pandas
-openpyxl
-groq
 python-dotenv
 tqdm
+openpyxl
+groq
+pdfplumber
+pytesseract
+Pillow
 
